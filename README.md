@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pascal Tiberghien</h1>
-<h3 align="center">CTO and co-founder of Audemic. I am a full stack web developer with experience in Ruby on Rails full stack applications and APIs, as well as Next.js with React. My current role involves the complete development of our online platform, the implementation of our cloud architecture on AWS, and overseeing all technological development at Audemic. </h3>
+<h3 align="center">CTO and co-founder of Audemic. I am a full stack web developer with experience in Ruby on Rails full stack applications and APIs, as well as Express.js/Node.js. I also have experience with React as a front-end framework. My current role involves the complete development of our online platform, the implementation of our cloud architecture on AWS, and overseeing all technological development at Audemic. </h3>
 
 👨‍💻 All of my projects are available at: [https://www.notion.so/Pascal-Tiberghien-Web-Developer-0b06561c30434aaa90aca0e2402103d3](https://www.notion.so/Pascal-Tiberghien-Web-Developer-0b06561c30434aaa90aca0e2402103d3)
 
