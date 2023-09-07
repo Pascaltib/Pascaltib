@@ -1,5 +1,5 @@
 <h1 align="center">Pascal Tiberghien</h1>
-<h3 align="center">CTO and co-founder of Audemic. I am a full stack web developer with experience in Ruby on Rails applications and APIs, as well as Express.js/Node.js. I also have experience with Stimulus and React as a front-end frameworks. My current role involves the complete development of our online platform, the implementation of our cloud architecture on AWS, and overseeing all technological development at Audemic. </h3>
+<h3 align="center">CTO and co-founder of Audemic and Lead Developer at LevelX. I am a full stack web developer with experience with Ruby on Rails and Sveltekit. I frequently work with LLMs and integrate their use with applications. </h3>
 
 📫 How to reach me: **pascaltib@gmail.com**
 
