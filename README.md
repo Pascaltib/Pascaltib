@@ -1,6 +1,6 @@
 # Pascal Tiberghien
 
-### CTO and co-founder of Audemic and Lead Developer at LevelX. I am a full stack web developer with professional experience with Ruby on Rails and Svelte + Sveltekit.
+### Lead Developer@Navar | Software Engineer/PM@KnowThyself360°. I am a full stack web developer with professional experience with Svelte + Sveltekit and Ruby on Rails.
 
 📫 How to reach me: **pascaltib@gmail.com**
 
