@@ -4,6 +4,7 @@
 
 📫 How to reach me: **pascaltib@gmail.com**
 
-### Connect with me:
+[CV](https://pascaltib.github.io/cv/)
+
 [LinkedIn](https://linkedin.com/in/pascaltib)
 
